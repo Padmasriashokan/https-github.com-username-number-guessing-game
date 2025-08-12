@@ -3,7 +3,7 @@ Number Guessing Game 🎯
 It is a simple Python console game where the computer picks a random number, and you try to guess it!
 📜 How It Works
 
-The program chooses a number between 1 and 50.
+The program chooses a number between 1 and 100.
 
 You keep guessing until you find the correct number.
 
